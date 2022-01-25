@@ -1,0 +1,17 @@
+<students>
+	<student number="1" xyz="a">
+		<name> Alamin </name>
+		<age> 23 </age>
+		<email>shimulmallick721@gmail.com</email>
+	</student>
+	<student  number="1" xyz="a">
+		<name> XYZ </name>
+		<age> 33 </age>
+		<email>18-37212-1@aiub.edu</email>
+	</student>
+	<student>
+		<name> XYZ </name>
+		<age> 13 </age>
+		<email></email>
+	</student>
+</students>
